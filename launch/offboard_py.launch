@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="px4_offboard" name="px4_offboard" type="offboard.py" output="screen"></node>
+</launch>
+
